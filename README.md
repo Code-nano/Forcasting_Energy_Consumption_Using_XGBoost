@@ -2,6 +2,11 @@
 
 This project aims to forecast hourly energy consumption using a dataset from [Kaggle](https://www.kaggle.com/robikscube/hourly-energy-consumption). 
 
+### The dataset is Hourly Power Consumption Statistics from PJM
+PJM Interconnection LLC (PJM), a key Regional Transmission Organization (RTO) within the United States, forms an integral part of the Eastern Interconnection grid. It administers an electric transmission system that caters to various parts or the entirety of several states and territories, including Delaware, Illinois, Indiana, Kentucky, Maryland, Michigan, New Jersey, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, West Virginia, and the District of Columbia.
+
+The hourly power consumption data comes from PJM's website and are in megawatts (MW)
+
 The dataset
 ![image](https://github.com/Code-nano/Forcasting_Energy_Consumption_Using_XGBoost/assets/83939407/7590f003-207a-4e38-b637-fc5a0c5f825e)
 
