@@ -68,5 +68,6 @@ If you're using Jupyter notebook, you can run the script by clicking on 'Cell' a
 
 
 ## Acknowledgments
+*  I'd also like to thank Rob Mulla for the foundational knowledge and basic techniques used for this project's time series forecasting
 * Special thanks to [Kaggle](https://www.kaggle.com/) for providing the dataset.
 * This project uses the XGBoost library. Special thanks to the creators of [XGBoost](https://xgboost.readthedocs.io/). 
