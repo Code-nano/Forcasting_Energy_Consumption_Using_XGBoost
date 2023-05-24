@@ -1,6 +1,13 @@
 # Hourly Energy Consumption Forecasting
 
 This project aims to forecast hourly energy consumption using a dataset from [Kaggle](https://www.kaggle.com/robikscube/hourly-energy-consumption). 
+The dataset
+![image](https://github.com/Code-nano/Forcasting_Energy_Consumption_Using_XGBoost/assets/83939407/7590f003-207a-4e38-b637-fc5a0c5f825e)
+TimeSeriesSplit
+![image](https://github.com/Code-nano/Forcasting_Energy_Consumption_Using_XGBoost/assets/83939407/73d889a9-e200-4771-86d7-e5dace7e24bf)
+Forecast for the next year
+![image](https://github.com/Code-nano/Forcasting_Energy_Consumption_Using_XGBoost/assets/83939407/c8c275f3-fa4a-4006-97bd-0325d980d9ea)
+
 
 The project can be broken down into the following main steps:
 
@@ -16,7 +23,7 @@ The project can be broken down into the following main steps:
 
 6. **Final forecasting and visualisation:** The final model is used to forecast future energy consumption, and the results are visualised for better understanding. 
 
-Note: New features need to be added, and implementation for the automation for the XGBoost model hyperparameter tuning for a more accurate model. 
+Note: New features need to be added, as well as the implementation for the automation for the XGBoost model hyperparameter tuning for a more accurate model. 
 Such as temporal factors: time of day, seasons and weather, dayofweek
 or special events and holidays
 and even macroeconomic factors
@@ -37,14 +44,14 @@ You'll need to install Python (version 3. x) on your system. The following Pytho
 * os
 * subprocess
 
-To install the necessary libraries, you can use pip:
-
+To install the necessary libraries, you can run the .ipynb or use pip:
+'''bash
 pip install pandas seaborn pansql xgboost scikit-learn ydata-profiling matplotlib numpy zipfile os subprocess
-
+'''
 You also need to set up the Kaggle API on your system for data downloading. You can follow this [guide](https://towardsdatascience.com/downloading-datasets-from-kaggle-for-your-ml-project-b9120d405ea4) to set up the Kaggle API.
 
 ## Usage
-After you have cloned the project and installed the prerequisites, you can open the Python script in your preferred IDE or notebook environment (Jupyter notebook, PyCharm, VS Code, etc.) and then run the script.
+After you have cloned the project and installed the prerequisites, you can open the 
 
 If you're using Jupyter notebook, you can run the script by clicking on 'Cell' and then 'Run All'.
 
