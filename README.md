@@ -1,4 +1,4 @@
-# Hourly Energy Consumption Forecasting Using XGBoost
+# Energy Consumption Forecasting Using XGBoost
 
 This project aims to forecast hourly energy consumption using a dataset from [Kaggle](https://www.kaggle.com/robikscube/hourly-energy-consumption). 
 
