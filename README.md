@@ -1,15 +1,18 @@
 # Hourly Energy Consumption Forecasting
 
 This project aims to forecast hourly energy consumption using a dataset from [Kaggle](https://www.kaggle.com/robikscube/hourly-energy-consumption). 
+
 The dataset
 ![image](https://github.com/Code-nano/Forcasting_Energy_Consumption_Using_XGBoost/assets/83939407/7590f003-207a-4e38-b637-fc5a0c5f825e)
+
 TimeSeriesSplit
 ![image](https://github.com/Code-nano/Forcasting_Energy_Consumption_Using_XGBoost/assets/83939407/73d889a9-e200-4771-86d7-e5dace7e24bf)
+
 Forecast for the next year
 ![image](https://github.com/Code-nano/Forcasting_Energy_Consumption_Using_XGBoost/assets/83939407/c8c275f3-fa4a-4006-97bd-0325d980d9ea)
 
 
-The project can be broken down into the following main steps:
+## The project can be broken down into the following main steps:
 
 1. **Data collection:** This involves installing all necessary dependencies, importing libraries, setting up paths, and downloading the dataset via the Kaggle API.
 
