@@ -56,9 +56,9 @@ You'll need to install Python (version 3. x) on your system. The following Pytho
 * subprocess
 
 To install the necessary libraries, you can run the .ipynb or use pip:
-'''bash
+```bash
 pip install pandas seaborn pansql xgboost scikit-learn ydata-profiling matplotlib numpy zipfile os subprocess
-'''
+```
 You also need to set up the Kaggle API on your system for data downloading. You can follow this [guide](https://towardsdatascience.com/downloading-datasets-from-kaggle-for-your-ml-project-b9120d405ea4) to set up the Kaggle API.
 
 ## Usage
