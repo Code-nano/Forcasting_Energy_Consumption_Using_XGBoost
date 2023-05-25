@@ -66,5 +66,7 @@ After you have cloned the project and installed the prerequisites, you can open 
 
 ## Acknowledgments
 *  I'd also like to thank Rob Mulla for the foundational knowledge and basic techniques used for this project's time series forecasting
-* Special thanks to [Kaggle](https://www.kaggle.com/) for providing the dataset.
-* This project uses the XGBoost library. Special thanks to the creators of [XGBoost](https://xgboost.readthedocs.io/). 
+*  This project uses the XGBoost library. Special thanks to the creators of [XGBoost](https://xgboost.readthedocs.io/). 
+* Dataset from 
+
+Rob Mulla. 2018. Hourly Energy Consumption, Version 1. Retrieved May 2023 from https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption.
