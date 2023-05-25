@@ -16,7 +16,7 @@ TimeSeriesSplit
 Sample of 1 year span energy consumption
 ![image](https://github.com/Code-nano/Forcasting_Energy_Consumption_Using_XGBoost/assets/83939407/5fa7be86-ba72-47ce-b2ab-3866da719d7c)
 
-Forecast for the next year
+Forecast for the next year after the end of dataset
 ![image](https://github.com/Code-nano/Forcasting_Energy_Consumption_Using_XGBoost/assets/83939407/c8c275f3-fa4a-4006-97bd-0325d980d9ea)
 
 
