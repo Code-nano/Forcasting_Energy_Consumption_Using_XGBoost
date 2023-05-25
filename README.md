@@ -62,10 +62,7 @@ pip install pandas seaborn pansql xgboost scikit-learn ydata-profiling matplotli
 You also need to set up the Kaggle API on your system for data downloading. You can follow this [guide](https://towardsdatascience.com/downloading-datasets-from-kaggle-for-your-ml-project-b9120d405ea4) to set up the Kaggle API.
 
 ## Usage
-After you have cloned the project and installed the prerequisites, you can open the 
-
-If you're using Jupyter notebook, you can run the script by clicking on 'Cell' and then 'Run All'.
-
+After you have cloned the project and installed the prerequisites, you can open the Jupyter notebook and run the notebook
 
 ## Acknowledgments
 *  I'd also like to thank Rob Mulla for the foundational knowledge and basic techniques used for this project's time series forecasting
